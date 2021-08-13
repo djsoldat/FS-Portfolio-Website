@@ -1,7 +1,10 @@
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-body {background-color:rgb(102, 104, 99)}
+
+body {
+    background-color:rgb(102, 104, 99)
+}
 
 h1.name {
     font-size: 3em;
@@ -10,11 +13,13 @@ h1.name {
     border:dashed black;
     padding: 0.5em;
 }
+
 p.motto {
     text-align: center;
     font-style: italic;
     color: white;
 }
+
 h2 {
     text-align: center;
 }
@@ -27,12 +32,11 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    
-}
+    }
+
 div {
 line-height: 1.8em;
 background: rgb(204, 211, 204);
 border-style: solid;
 color: black;
-
 }
